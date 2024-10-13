@@ -5,7 +5,7 @@ layout: home
 hero:
   name: 仓颉语言
   text: "一款由华为开发的\n全场景编程语言"
-  tagline: 通过阅读本文档，快速避免踩坑
+  tagline: 通过阅读本文档，尽量避免踩坑
   actions:
     - theme: brand
       text: 📚 开始阅读
